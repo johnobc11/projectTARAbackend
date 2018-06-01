@@ -1,0 +1,224 @@
+POST http://86.15.167.217:8080/token-auth
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: 4bd97c6a3da72d83cee684617f43718811db4d88
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-03-09T111600.200.json
+
+###
+
+POST http://86.15.167.217:8080/login
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: 4bd97c6a3da72d83cee684617f43718811db4d88
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-03-09T080638.500.html
+
+###
+
+POST http://86.15.167.217:8080/token-auth
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: 4bd97c6a3da72d83cee684617f43718811db4d88
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-03-09T084946.200.json
+
+###
+
+POST http://86.15.167.217:8080/token-auth
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: 4bd97c6a3da72d83cee684617f43718811db4d88
+
+<> 2018-03-09T084920.400.json
+
+###
+
+GET http://86.15.167.217:8080/token-auth
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: 4bd97c6a3da72d83cee684617f43718811db4d88
+
+<> 2018-03-09T084903.405.json
+
+###
+
+GET http://86.15.167.217:8080/token-auth
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-03-09T084741.405.json
+
+###
+
+GET http://86.15.167.217:8080/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Token 4bd97c6a3da72d83cee684617f43718811db4d88
+
+<> 2018-02-27T073401.200.json
+
+###
+
+POST http://86.15.167.217:8080/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Token 4bd97c6a3da72d83cee684617f43718811db4d88
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T073354.405.json
+
+###
+
+POST http://86.15.167.217:8080/api-token-auth
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T072846.200.json
+
+###
+
+POST http://86.15.167.217:8080/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T072811.401.json
+
+###
+
+POST http://86.15.167.217:8080/api
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T072731.500.html
+
+###
+
+POST http://86.15.167.217:8080/register
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T072709.404.html
+
+###
+
+POST http://86.15.167.217:8080/register
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T072704.404.html
+
+###
+
+POST http://86.15.167.217:8080/api-token-auth
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T072611.500.html
+
+###
+
+POST http://86.15.167.217:8080/api-token-auth
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T072538.500.html
+
+###
+
+POST http://86.15.167.217:8080/api-token-auth
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T072457.500.html
+
+###
+
+POST http://86.15.167.217:8080/api-token-auth
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T072427.500.html
+
+###
+
+POST http://86.15.167.217:8080/api-auth-token
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+<> 2018-02-27T072348.404.html
+
+###
+
+POST 86.15.167.217:8080/api-auth-token
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+###
+
+POST htttp://86.15.167.217:8080/api-auth-token
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+###
+
+POST http://http//86.15.167.217:8080
+Accept: application/json
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"username":"johnobc",   "password":"s" }
+
+###
+
